@@ -1,0 +1,6 @@
+{
+  "name": "부산 축제 정보",
+  "description": "부산 지역의 다양한 축제를 구/군별, 날짜별, 키워드별로 한눈에 조회하고 둘러보는 웹 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
